@@ -61,7 +61,7 @@ Ext.define('Ext.ux.window.Growl', {
         
         if (options.closable !== false) {
             closer = Ext.DomHelper.append(notification, this.closerTpl, true);
-            //notification.hover(closer.fadeIn, closer.fadeOut, closer);
+            notification.hover(closer.fadeIn, closer.fadeOut, closer);
         }
         
         container.alignTo(options.context, options.alignment, options.offset);
