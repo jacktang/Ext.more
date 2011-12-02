@@ -1,29 +1,15 @@
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="../../resources/css/ext-all.css" />
+    <link rel="stylesheet" type="text/css" href="../../ext-4.0.7/resources/css/ext-all.css" /> 
     <link rel="stylesheet" type="text/css" href="flags.css" />
     <link rel="stylesheet" type="text/css" href="IconCombo.css" />
     <link rel="stylesheet" type="text/css" href="LoginDialog.css" />
-
-    <script type="text/javascript" src="../../bootstrap.js"></script>
-    <script type="text/javascript" src="overrides.js"></script>
-    <script type="text/javascript" src="IconCombo.js"></script>
-    <script type="text/javascript" src="LoginDialog.js"></script>
+    <script type="text/javascript" src="../../ext-4.0.7/ext-all-debug.js"></script>
 </head>
 <body>
-    <script>
-        Ext.onReady(function() {
-            Ext.tip.QuickTipManager.init();
-
-            var loginDialog = Ext.create('Ext.ux.LoginDialog', {
-                forgotPasswordLink: '<a href="http://support.microsoft.com/kb/189126" target="_blank">Forgot Password ?</a>',
-                formPanel: {
-                    url: '/users/login.php'
-                }
-            });
-
-            loginDialog.show();
-        });
-    </script>
+      <h1>LoginDialog Example</h1>
+      <p>The js is not minified so it is readable. See <a href="logindialog.js">logindialog.js</a>.</p> 
+      <div id="LoginDialog"></div>
+      <script type="text/javascript" src="logindialog.js"></script>
 </body>
 </html>
