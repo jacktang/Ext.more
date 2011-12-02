@@ -8,7 +8,7 @@
 * (http://www.opensource.org/licenses/mit-license.php)
 */
 
-Ext.define('Ext.ux.LoginDialog', {
+Ext.define('Ext.ux.window.LoginDialog', {
     extend: 'Ext.window.Window',
     requires: ['Ext.layout.container.Border', 'Ext.form.Panel', 'Ext.form.field.Checkbox', 'Ext.ux.form.IconCombo'],
     alias: 'widget.logindialog',
