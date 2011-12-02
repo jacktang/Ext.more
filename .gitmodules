@@ -1,0 +1,3 @@
+[submodule "extjs-growl"]
+	path = extjs-growl
+	url = https://github.com/kembuco/extjs-growl.git
