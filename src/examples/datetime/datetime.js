@@ -31,8 +31,6 @@ Ext.onReady(function(){
 			  fieldLabel: 'TIME'
 		});
 
-    console.log("hello");
-
 		Ext.create('Ext.panel.Panel', {
         renderTo: 'datetime',
 			  dockedItems: [{
@@ -51,6 +49,5 @@ Ext.onReady(function(){
                 timeField]
 			  }]
 		});
-    console.log("hello2");
     
 });
