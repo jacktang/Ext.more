@@ -5,11 +5,19 @@ ExtJS 4.x
 http://www.sencha.com/forum/showthread.php?137242-Ext.ux.DateTimeField-DateTimePicker-for-ext4-also-DateTimeMenu-TimePickerField
 http://www.sencha.com/forum/showthread.php?132422-Ext.ux.menu.DynamicMenu-for-ExtJS-4.0
 http://www.djengineer.com/ExtJSExamples/PluginExamples/FormPanelEditor/FormPanelEditor.html
+https://github.com/mitchellsimoens/Ext.plugin.extjs.FileDrop
 
 theme：
 http://www.sencha.com/forum/showthread.php?132811-Another-Ribbon-Style
 
 EXTJS 3.x
+https://github.com/goldledoigt/Ext.ux.CarouselPanel
+https://github.com/goldledoigt/Ext.ux.CarouselWall
+https://github.com/goldledoigt/Ext.ux.CarouselList
+
+treegrid:
+http://max-bazhenov.com/dev/ux.maximgb.tg/index.php
+
 http://www.sencha.com/forum/showthread.php?67346-3.x-Login-Dialog-Extension
 http://www.sencha.com/forum/showthread.php?98241-Tri-state-checkbox-for-ExtJs-3.0
 http://www.sencha.com/forum/showthread.php?61674-Ext.ux.menu.StoreMenu-Ajax-Store-as-menu-item-config
@@ -22,6 +30,11 @@ http://pad.metacpan.org/js-ext.ux.raphael/
 
 http://gaver.dyndns.org/elmasse/site/index.php/blog/4-posts/10-i18nbundle-resource-bundle-extjs-extension-
 
+https://github.com/mitchellsimoens/Ext.plugin.extjs.WindowDrawer
+https://github.com/revolunet/Ext.ux.upload
 
 application:
 https://github.com/tstachl/ExtMail
+
+
+Ext3 -> Ext4: http://loianegroner.com/extjs/examples/ext4-ext3-class-names/
